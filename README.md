@@ -56,6 +56,9 @@ Deploy the myBLCtoken contract to the Ethereum blockchain using your preferred m
   uint balance = balances(0x123...);
 ## Authors
 Vaibhav Sharma
-metacrafters.io/devftkrshna
+
+vaihavkhandal445@gmail.com
+
+devftkrshna@metacrafters
 ## License
 This project is licensed under the MIT License.
