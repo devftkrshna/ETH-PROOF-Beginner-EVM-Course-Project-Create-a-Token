@@ -45,7 +45,7 @@ Deploy the myBLCtoken contract to the Ethereum blockchain using your preferred m
 4. **Token Details**: Access the public variables `tokenName`, `tokenAbbrv`, and `totalSupply` to get the details of the token.
 
 ### Example
-   ```solidity
+- ```solidity
   // Mint 100 tokens to address 0x123...
   mint(0x123..., 100);
 
@@ -54,6 +54,8 @@ Deploy the myBLCtoken contract to the Ethereum blockchain using your preferred m
 
   // Check balance of address 0x123...
   uint balance = balances(0x123...);
-
+## Authors
+Vaibhav Sharma
+metacrafters.io/devftkrshna
 ## License
 This project is licensed under the MIT License.
